@@ -1,0 +1,30 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Ignore everything under .idea except for codeStyles directory
+.idea/*
+!.idea/
+!.idea/codeStyles/
+
+# Ignore everywhere
+**/build
+**/local.properties
+
+# Ignore specific
+/caches
+/wrapper
+/daemon
+/native

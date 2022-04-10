@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zadaca</string>
+    <string name="true_button">TOČNO</string>
+    <string name="false_button">NETOČNO</string>
+    <string name="previous_button">Prethodno</string>
+    <string name="next_button">Sljedeće</string>
+    <string name="question1">Da li je Pula glavni grad Istre?</string>
+    <string name="question2">Question 2</string>
+    <string name="question3">Question 3</string>
+    <string name="question4">Question 4</string>
+    <string name="question5">Question 5</string>
+    <string name="correct_answer_toast">Točan odgovor</string>
+    <string name="wrong_answer_toast">Netočan odgovor</string>
+    <string name="start_calculator">Pokreni kalkulator</string>
+</resources>
